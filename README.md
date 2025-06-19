@@ -17,7 +17,7 @@ Based in Nuwara Eliya, Sri Lanka, I am currently working at **GeorgiaTEK Systems
 
 
 ## GitHub Stats
-🔹 **Public Repositories:** 4  
+🔹 **Public Repositories:** 5
 🔹 **Followers:** 0  
 🔹 **Following:** 0  
 
